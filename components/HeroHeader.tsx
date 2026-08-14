@@ -6,7 +6,7 @@ export function HeroHeader() {
       {/* Imagen de fondo completa y limpia */}
       <div 
         className="absolute inset-0 bg-cover bg-center"
-        style={{ backgroundImage: "url('/portada-flores.png')" }}
+        style={{ backgroundImage: "url('/portada-cafe-campo.png')" }}
       />
 
     </div>
