@@ -18,6 +18,18 @@ export function BebidasBatidosSection() {
         <MenuItem name="Goloso" description="Yogurt griego, chips choco y DDL" price="$10.000" />
         <MenuItem name="Keto" description="Yogurt griego, mantequilla maní, mix de frutos rojos" price="$10.000" />
       </MenuCategory>
+
+      <MenuCategory title="Bebidas">
+        <MenuItem name="Agua 500ml" price="$2.500" />
+        <MenuItem name="Agua 2L" price="$4.000" />
+        <MenuItem name="Gaseosa 500ml" price="$3.000" />
+        <MenuItem name="Cerveza lata" price="$4.000" />
+        <MenuItem name="Corona 330ml" price="$5.000" />
+        <MenuItem name="Corona 710ml" price="$9.000" />
+        <MenuItem name="Cerveza Andes 1L" price="$9.000" />
+        <MenuItem name="Cerveza Stella 1L" price="$10.000" />
+
+      </MenuCategory>
     </>
   );
 }

@@ -13,10 +13,16 @@ export function PlatosPrincipalesSection() {
 
       <MenuCategory title="Tartas">
         <MenuItem name="Jamón y Queso" price="$10.000" />
-        <MenuItem name="Zapallo, Espinaca y Queso" price="" />
-        <MenuItem name="Zapallo, Choclo y Queso" price="" />
-        <MenuItem name="Pollo" price="" />
+        <MenuItem name="Tricolor" price="$10.000" />
+        <MenuItem name="Pollo" price="$10.000" />
       </MenuCategory>
+
+      <MenuCategory title="Hamburguesas">
+        <MenuItem name="Sola con guarnición" description="Hamburguesa doble acompañada de papas fritas o ensalada clásica" price="$12.000" />
+        <MenuItem name="Jamón y queso con guarnición" description="Hamburguesa doble acompañada de papas fritas o ensalada clásica" price="$14.000" />
+        <MenuItem name="Completa con guarnición" description="Hamburguesa doble con jamón, queso, huevo a la plancha, lechuga y tomate, acompañada de papas fritas o ensalada clásica" price="$16.000" />
+      </MenuCategory>
+
 
       <MenuCategory title="Pizzas">
         <MenuItem name="Muzza" price="$12.000" />
@@ -46,15 +52,15 @@ export function PlatosPrincipalesSection() {
       </MenuCategory>
 
       <MenuCategory title="Wraps, Burrito y Rolls">
-        <MenuItem name="Wraps Pollo Caesar" description="Pechuga de pollo fría con lechuga, queso y aderezo caesar" price="" />
-        <MenuItem name="Wraps Pollo y Palta" description="Pechuga pollo, tomate cherry, queso parmesano y palta" price="" />
+        <MenuItem name="Wraps Pollo Caesar" description="Pechuga de pollo fría con lechuga, queso y aderezo caesar" price="$8.500" />
+        <MenuItem name="Wraps Pollo y Palta" description="Pechuga pollo, tomate cherry, queso parmesano y palta" price="$8.500" />
       </MenuCategory>
 
       <MenuCategory title="Menú Infantil">
         <MenuItem name="Box Nuggets con carita" price="$8.000" />
         <MenuItem name="Pizza Individual" price="$7.000" />
-        <MenuItem name="Quesadilla" description="Jamón y queso" price="" />
-        <MenuItem name="Quesadilla" description="Jamón, queso y tomate" price="" />
+        <MenuItem name="Quesadilla" description="Jamón y queso" price="$6.000" />
+        <MenuItem name="Quesadilla" description="Jamón, queso y tomate" price="$6.000" />
         <MenuItem name="Milanesa con fritas o puré" price="$12.500" />
       </MenuCategory>
     </>

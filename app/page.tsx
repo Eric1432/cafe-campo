@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main 
       className="min-h-screen bg-fixed bg-auto text-stone-900 pb-20 p-6"
-      style={{ backgroundImage: "url('/fondo-carta.png')" }}
+      style={{ backgroundImage: "url('/fondo-nuevo.jpeg')" }}
     >
       <section className="mx-auto max-w-md">
         
