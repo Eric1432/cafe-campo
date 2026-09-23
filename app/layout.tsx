@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     siteName: 'Mi Cafetería',
     images: [
       {
-        url: '/public/logo.png',
+        url: 'https://carta-cafe.vercel.app/logo.png',
         width: 1200,
         height: 630,
         alt: 'Carta de Mi Cafetería',
